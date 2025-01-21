@@ -9,6 +9,7 @@ app.get("/movies",(req,res)=>{
     res.json(JSON.parse(data))
    
 })
+
 app.get("/movies/:id",(req,res)=>{
     const data=fs.readFileSync("movies.json")
     const movies=JSON.parse(data)
