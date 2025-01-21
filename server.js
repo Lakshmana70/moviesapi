@@ -3,6 +3,14 @@ const app=express()
  const fs=require("fs")
  const corse=require("cors")
  app.use(corse())
+ app.get("/",(req,res)=>{
+    const data=fs.readFileSync("movies.json")
+    const movies=JSON.parse(data)
+        moviestitle= movies.map((movie)=>movie.Title)
+        res.json((moviestitle))
+   
+})
+
 app.get("/movies",(req,res)=>{
     const data=fs.readFileSync("movies.json")
     // console.log(JSON.parse(data))
