@@ -1,0 +1,1472 @@
+ [
+  {
+    "id": 1,
+    "Title": "Pushpa: The Rise - Part 1",
+  "Year": "2021",
+  "Rated": "Not Rated",
+  "Released": "17 Dec 2021",
+  "Runtime": "179 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Sukumar",
+  "Writer": "Sukumar, Srikanth Vissa, Hussain Sha Kiran",
+  "Actors": "Allu Arjun, Fahadh Faasil, Rashmika Mandanna",
+  "Plot": "A labourer rises through the ranks of a red sandalwood smuggling syndicate, making some powerful enemies in the process.",
+  "Language": "Telugu",
+  "Country": "India",
+  "Awards": "25 wins & 13 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWE4YWEyNjYtMWFiNC00M2IzLWE3ZGMtMjQ0ZGEyOWI1YjAzXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "7.6",
+  "imdbVotes": "94,192",
+  "imdbID": "tt9389998",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,320,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+   },
+    {
+        "id": 2,
+        "Title": "Vakeel Saab",
+  "Year": "2021",
+  "Rated": "TV-14",
+  "Released": "09 Apr 2021",
+  "Runtime": "153 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Venu Sriram",
+  "Writer": "Shoojit Sircar, Aniruddha Roy Chowdhury, Ritesh Shah",
+  "Actors": "Pawan Kalyan, Nivetha Thomas, Anjali",
+  "Plot": "Three girls find themselves accused of attempt to murder after escaping molestation. Their only hope is an alcoholic lawyer who agrees to take up the case.",
+  "Language": "Telugu",
+  "Country": "India",
+  "Awards": "4 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0NDk3NTgtNzVhNC00NjgxLWE5NzUtY2IzMGM2ZGUyMWE5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbVotes": "12,508",
+  "imdbID": "tt8269248",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+    },
+    {
+        "id":"3",
+        "Title": "Master",
+  "Year": "2021",
+  "Rated": "Not Rated",
+  "Released": "13 Jan 2021",
+  "Runtime": "179 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Lokesh Kanagaraj",
+  "Writer": "Lokesh Kanagaraj, Pon Parthiban, Rathna Kumar",
+  "Actors": "Joseph Vijay, Vijay Sethupathi, Malavika Mohanan",
+  "Plot": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
+  "Language": "Tamil",
+  "Country": "India",
+  "Awards": "2 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjFhM2JhM2MtYmMwNC00M2M1LWExMzUtOGI3MmQxNWRiZGI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "7.4",
+  "imdbVotes": "85,662",
+  "imdbID": "tt10579952",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+    },
+    {
+        "id": 4,
+        "Title": "RRR",
+  "Year": "2022",
+  "Rated": "TV-MA",
+  "Released": "25 Mar 2022",
+  "Runtime": "187 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "S.S. Rajamouli",
+  "Writer": "Vijayendra Prasad, S.S. Rajamouli, Sai Madhav Burra",
+  "Actors": "N.T. Rama Rao Jr., Ram Charan, Ajay Devgn",
+  "Plot": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+  "Language": "Telugu",
+  "Country": "India",
+  "Awards": "Won 1 Oscar. 93 wins & 158 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.8",
+  "imdbVotes": "175,278",
+  "imdbID": "tt8178634",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$15,156,051",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+    },
+    {
+        "id": 5,
+        "Title": "Akhanda",
+        "Year": "2021",
+        "Rated": "N/A",
+        "Released": "02 Dec 2021",
+        "Runtime": "167 min",
+        "Genre": "Action, Drama",
+        "Director": "Boyapati Srinu",
+        "Writer": "Boyapati Srinu, M. Rathnam",
+        "Actors": "Nandamuri Balakrishna, Pragya Jaiswal, Jagapathi Babu",
+        "Plot": "When the nefarious Varadarajulu plans to attack Murali Krishna, an ardent devotee of Lord Shiva, Akhanda leaves no stone unturned to defeat the evil.",
+        "Language": "Telugu",
+        "Country": "India",
+        "Awards": "4 wins & 8 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNWJhMDQ4MGItOWM4Yy00ZmM1LTgxNmQtODNiMTVmNzkxOTRjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.8",
+        "imdbVotes": "19,679",
+        "imdbID": "tt11773378",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 6,
+       "Title": "Love Story",
+  "Year": "2021",
+  "Rated": "N/A",
+  "Released": "24 Sep 2021",
+  "Runtime": "155 min",
+  "Genre": "Romance",
+  "Director": "Sekhar Kammula",
+  "Writer": "Sekhar Kammula",
+  "Actors": "Naga Chaitanya Akkineni, Sai Pallavi, Rajeev Kanakala",
+  "Plot": "A Zumba instructor who falls in love with a girl from an upper-caste Hindu family. Their love faces numerous challenges due to caste differences.",
+  "Language": "Telugu",
+  "Country": "India",
+  "Awards": "2 wins & 12 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzgxMGJmMjktNWY1MS00NzM0LTkzNjktY2NmMjgwODk0NjFhXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.8",
+  "imdbVotes": "4,562",
+  "imdbID": "tt11384004",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$971,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+},
+{
+    "id": 7,
+    
+  "Title": "Bheemla Nayak",
+  "Year": "2022",
+  "Rated": "N/A",
+  "Released": "25 Feb 2022",
+  "Runtime": "130 min",
+  "Genre": "Action, Drama, Thriller",
+  "Director": "Saagar K Chandra",
+  "Writer": "Sachy, Trivikram Srinivas",
+  "Actors": "Pawan Kalyan, Rana Daggubati, Nithya Menen",
+  "Plot": "Things change when the egos of an upright police officer and a retired army havildar clash.",
+  "Language": "Telugu",
+  "Country": "India",
+  "Awards": "2 wins & 8 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzFjZGU3ZDUtZDE1OC00MzQ1LTk4MWEtZjIzOWVmN2FiZmEyXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.3",
+  "imdbVotes": "10,212",
+  "imdbID": "tt14209560",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+},  
+  {
+    "id": 8,
+    
+  "Title": "Radhe Shyam",
+  "Year": "2022",
+  "Rated": "N/A",
+  "Released": "11 Mar 2022",
+  "Runtime": "138 min",
+  "Genre": "Drama, Romance",
+  "Director": "K.K. Radhakrishna Kumar",
+  "Writer": "Abbas Dalal, Hussain Dalal, Madhan Karky",
+  "Actors": "Prabhas, Pooja Hegde, Bhagyashree Patwardhan",
+  "Plot": "Love blooms between a doctor with an uncertain future and a renowned palmist who thought he would never find love. His beliefs are challenged.",
+  "Language": "Hindi, Telugu",
+  "Country": "India",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNGE3MmVlYmItZjA5Ny00YzNhLTg0ZGMtNWZhMmUwNjljN2IwXkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "20%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "5.2",
+  "imdbVotes": "32,307",
+  "imdbID": "tt8960382",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,860,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+  },
+  {
+    "id": 9,
+    "Title": "Sita Ramam",
+  "Year": "2022",
+  "Rated": "N/A",
+  "Released": "05 Aug 2022",
+  "Runtime": "163 min",
+  "Genre": "Action, Drama, Mystery",
+  "Director": "Hanu Raghavapudi",
+  "Writer": "Hanu Raghavapudi, Jay Krishna, Raj Kumar Kandamudi",
+  "Actors": "Dulquer Salmaan, Mrunal Thakur, Rashmika Mandanna",
+  "Plot": "An orphan soldier, Lieutenant Ram's life changes, after he gets a letter from a girl named Sita. He meets her and love blossoms between them. When he comes back to his camp in Kashmir,After he gets caught in jail, he sends a lette...",
+  "Language": "Telugu",
+  "Country": "India",
+  "Awards": "11 wins & 24 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYWE0NDNiNzEtNThmMi00NjZlLTk3NDAtYzIzOWNmNWQyYTI3XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "8.5",
+  "imdbVotes": "72,333",
+  "imdbID": "tt20850406",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+  },
+  {
+    "id": 10,
+    "Title": "Karthikeya 2",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "13 Aug 2022",
+    "Runtime": "150 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Chandoo Mondeti",
+    "Writer": "Harshavardhana, Manibabu Karanam, Chandoo Mondeti",
+    "Actors": "Nikhil Siddharth, Anupama Parameswaran, Srinivasa Reddy",
+    "Plot": "A sequel to Karthikeya (2014), which deals with the personal problems of Karthikeya and how his pursuit of the truth leads him to find out the power of Indian ancient system and Tatva of Lord Sri Krishna.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "3 wins & 9 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjQyM2RlNGMtZmE2Yi00NjQ4LTgwMmQtZWY1MjU3M2E4ZDhjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.9",
+    "imdbVotes": "64,535",
+    "imdbID": "tt13664684",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},
+
+{   "id":11,
+"Title": "Iron Man 3",
+"Year": "2013",
+"Rated": "PG-13",
+"Released": "03 May 2013",
+"Runtime": "130 min",
+"Genre": "Action, Adventure, Sci-Fi",
+"Director": "Shane Black",
+"Writer": "Drew Pearce, Shane Black, Stan Lee",
+"Actors": "Robert Downey Jr., Guy Pearce, Gwyneth Paltrow",
+"Plot": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+"Language": "English",
+"Country": "United States",
+"Awards": "Nominated for 1 Oscar. 20 wins & 63 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.1/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "79%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "62/100"
+  }
+],
+"Metascore": "62",
+"imdbRating": "7.1",
+"imdbVotes": "918,747",
+"imdbID": "tt1300854",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$409,013,994",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},
+{ "id":12,
+"Title": "Iron Man 2",
+"Year": "2010",
+"Rated": "PG-13",
+"Released": "07 May 2010",
+"Runtime": "124 min",
+"Genre": "Action, Sci-Fi",
+"Director": "Jon Favreau",
+"Writer": "Justin Theroux, Stan Lee, Don Heck",
+"Actors": "Robert Downey Jr., Mickey Rourke, Gwyneth Paltrow",
+"Plot": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+"Language": "English, French, Russian",
+"Country": "United States",
+"Awards": "Nominated for 1 Oscar. 7 wins & 45 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "6.9/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "72%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "57/100"
+  }
+],
+"Metascore": "57",
+"imdbRating": "6.9",
+"imdbVotes": "890,871",
+"imdbID": "tt1228705",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$312,433,331",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},
+{ "id":13,
+"Title": "Iron Man",
+"Year": "2008",
+"Rated": "PG-13",
+"Released": "02 May 2008",
+"Runtime": "126 min",
+"Genre": "Action, Adventure, Sci-Fi",
+"Director": "Jon Favreau",
+"Writer": "Mark Fergus, Hawk Ostby, Art Marcum",
+"Actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+"Plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+"Language": "English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",
+"Country": "United States, Canada",
+"Awards": "Nominated for 2 Oscars. 24 wins & 73 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.9/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "94%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "79/100"
+  }
+],
+"Metascore": "79",
+"imdbRating": "7.9",
+"imdbVotes": "1,153,009",
+"imdbID": "tt0371746",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$319,034,126",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":14,
+"Title": "How to Train Your Dragon",
+"Year": "2010",
+"Rated": "PG",
+"Released": "26 Mar 2010",
+"Runtime": "98 min",
+"Genre": "Animation, Action, Adventure",
+"Director": "Dean DeBlois, Chris Sanders",
+"Writer": "William Davies, Dean DeBlois, Chris Sanders",
+"Actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
+"Plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+"Language": "English",
+"Country": "United States, France, United Kingdom",
+"Awards": "Nominated for 2 Oscars. 25 wins & 63 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.1/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "99%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "75/100"
+  }
+],
+"Metascore": "75",
+"imdbRating": "8.1",
+"imdbVotes": "829,178",
+"imdbID": "tt0892769",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$270,745",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":15,
+"Title": "Dead Poets Society",
+"Year": "1989",
+"Rated": "PG",
+"Released": "09 Jun 1989",
+"Runtime": "128 min",
+"Genre": "Comedy, Drama",
+"Director": "Peter Weir",
+"Writer": "Tom Schulman",
+"Actors": "Robin Williams, Robert Sean Leonard, Ethan Hawke",
+"Plot": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+"Language": "English, Latin",
+"Country": "United States",
+"Awards": "Won 1 Oscar. 20 wins & 19 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.1/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "85%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "79/100"
+  }
+],
+"Metascore": "79",
+"imdbRating": "8.1",
+"imdbVotes": "574,579",
+"imdbID": "tt0097165",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$95,860,116",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":16,
+"Title": "The Ministry of Ungentlemanly Warfare",
+"Year": "2024",
+"Rated": "R",
+"Released": "19 Apr 2024",
+"Runtime": "122 min",
+"Genre": "Action, Comedy, War",
+"Director": "Guy Ritchie",
+"Writer": "Paul Tamasy, Eric Johnson, Arash Amel",
+"Actors": "Henry Cavill, Alan Ritchson, Alex Pettyfer",
+"Plot": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
+"Language": "English",
+"Country": "United States, United Kingdom, Turkey",
+"Awards": "1 nomination total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BYmIxODc5ZjMtYzZmZS00OTE5LThkZDktNWNmODNiZjFhMDgyXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "6.8/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "68%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "55/100"
+  }
+],
+"Metascore": "55",
+"imdbRating": "6.8",
+"imdbVotes": "119,014",
+"imdbID": "tt5177120",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$20,535,053",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":17,
+"Title": "Your Name.",
+"Year": "2016",
+"Rated": "TV-PG",
+"Released": "07 Apr 2017",
+"Runtime": "106 min",
+"Genre": "Animation, Drama, Fantasy",
+"Director": "Makoto Shinkai",
+"Writer": "Makoto Shinkai",
+"Actors": "Ryunosuke Kamiki, Mone Kamishiraishi, Ryo Narita",
+"Plot": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+"Language": "Japanese",
+"Country": "Japan",
+"Awards": "17 wins & 27 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.4/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "98%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "81/100"
+  }
+],
+"Metascore": "81",
+"imdbRating": "8.4",
+"imdbVotes": "342,242",
+"imdbID": "tt5311514",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$5,017,246",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},
+{ "id":18,
+"Title": "Inception",
+"Year": "2010",
+"Rated": "PG-13",
+"Released": "16 Jul 2010",
+"Runtime": "148 min",
+"Genre": "Action, Adventure, Sci-Fi",
+"Director": "Christopher Nolan",
+"Writer": "Christopher Nolan",
+"Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+"Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+"Language": "English, Japanese, French",
+"Country": "United States, United Kingdom",
+"Awards": "Won 4 Oscars. 159 wins & 220 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.8/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "87%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "74/100"
+  }
+],
+"Metascore": "74",
+"imdbRating": "8.8",
+"imdbVotes": "2,626,859",
+"imdbID": "tt1375666",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$292,587,330",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":19,
+"Title": "Shutter Island",
+"Year": "2010",
+"Rated": "R",
+"Released": "19 Feb 2010",
+"Runtime": "138 min",
+"Genre": "Drama, Mystery, Thriller",
+"Director": "Martin Scorsese",
+"Writer": "Laeta Kalogridis, Dennis Lehane",
+"Actors": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+"Plot": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient.",
+"Language": "English, German",
+"Country": "United States",
+"Awards": "11 wins & 66 nominations",
+"Poster": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.2/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "69%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "63/100"
+  }
+],
+"Metascore": "63",
+"imdbRating": "8.2",
+"imdbVotes": "1,507,173",
+"imdbID": "tt1130884",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$128,012,934",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":20,
+"Title": "A Quiet Place",
+"Year": "2018",
+"Rated": "PG-13",
+"Released": "06 Apr 2018",
+"Runtime": "90 min",
+"Genre": "Drama, Horror, Sci-Fi",
+"Director": "John Krasinski",
+"Writer": "Bryan Woods, Scott Beck, John Krasinski",
+"Actors": "Emily Blunt, John Krasinski, Millicent Simmonds",
+"Plot": "A family struggles for survival in a world invaded by blind alien creatures with ultra-sensitive hearing.",
+"Language": "American Sign , English",
+"Country": "United States",
+"Awards": "Nominated for 1 Oscar. 38 wins & 129 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.5/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "96%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "82/100"
+  }
+],
+"Metascore": "82",
+"imdbRating": "7.5",
+"imdbVotes": "616,908",
+"imdbID": "tt6644200",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$188,024,361",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":21,
+"Title": "I Am Legend",
+"Year": "2007",
+"Rated": "PG-13",
+"Released": "14 Dec 2007",
+"Runtime": "101 min",
+"Genre": "Drama, Horror, Sci-Fi",
+"Director": "Francis Lawrence",
+"Writer": "Mark Protosevich, Akiva Goldsman, Richard Matheson",
+"Actors": "Will Smith, Alice Braga, Charlie Tahan",
+"Plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+"Language": "English",
+"Country": "United States, United Kingdom",
+"Awards": "9 wins & 23 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMGE1OWZkZmItNmVhMC00YzAxLTgxOTctNjg3NWExM2RmOWJkXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.2/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "68%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "65/100"
+  }
+],
+"Metascore": "65",
+"imdbRating": "7.2",
+"imdbVotes": "837,250",
+"imdbID": "tt0480249",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$256,393,010",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":22,
+"Title": "Transformers",
+"Year": "2007",
+"Rated": "PG-13",
+"Released": "03 Jul 2007",
+"Runtime": "144 min",
+"Genre": "Action, Adventure, Sci-Fi",
+"Director": "Michael Bay",
+"Writer": "Roberto Orci, Alex Kurtzman, John Rogers",
+"Actors": "Shia LaBeouf, Megan Fox, Josh Duhamel",
+"Plot": "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.",
+"Language": "English, Spanish",
+"Country": "United States",
+"Awards": "Nominated for 3 Oscars. 25 wins & 50 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BZjM3ZDA2YmItMzhiMi00ZGI3LTg3ZGQtOTk3Nzk0MDY0ZDZhXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.1/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "57%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "61/100"
+  }
+],
+"Metascore": "61",
+"imdbRating": "7.1",
+"imdbVotes": "689,957",
+"imdbID": "tt0418279",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$319,246,193",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":23,
+"Title": "Warcraft",
+"Year": "2016",
+"Rated": "PG-13",
+"Released": "10 Jun 2016",
+"Runtime": "123 min",
+"Genre": "Action, Adventure, Fantasy",
+"Director": "Duncan Jones",
+"Writer": "Charles Leavitt, Duncan Jones",
+"Actors": "Travis Fimmel, Paula Patton, Ben Foster",
+"Plot": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+"Language": "English",
+"Country": "China, United States, Canada, Japan",
+"Awards": "2 wins & 3 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "6.7/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "29%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "32/100"
+  }
+],
+"Metascore": "32",
+"imdbRating": "6.7",
+"imdbVotes": "286,321",
+"imdbID": "tt0803096",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$47,365,290",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":24,
+"Title": "Gyaarah Gyaarah",
+"Year": "2024–",
+"Rated": "N/A",
+"Released": "09 Aug 2024",
+"Runtime": "N/A",
+"Genre": "Drama, Fantasy",
+"Director": "N/A",
+"Writer": "N/A",
+"Actors": "Raghav Juyal, Kritika Kamra, Dhairya Karwa",
+"Plot": "Investigative drama following events in 1990, 2001, 2016. Intertwining storylines blending mysticism, science and mystery across the decades.",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "N/A",
+"Poster": "https://m.media-amazon.com/images/M/MV5BY2JiOTlhYTUtZTk5Zi00MjA1LTkxYmQtOTgyODJmNmJmYmZlXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.2/10"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "8.2",
+"imdbVotes": "6,267",
+"imdbID": "tt26915338",
+"Type": "series",
+"totalSeasons": "1",
+"Response": "True"
+},{ "id":25,
+"Title": "Bhool Bhulaiyaa",
+"Year": "2007",
+"Rated": "Not Rated",
+"Released": "12 Oct 2007",
+"Runtime": "159 min",
+"Genre": "Comedy, Horror, Mystery",
+"Director": "Priyadarshan",
+"Writer": "Neeraj Vora, Manisha Korde, Madhu Muttam",
+"Actors": "Akshay Kumar, Vidya Balan, Shiney Ahuja",
+"Plot": "An NRI and his wife decide to stay in his ancestral home, paying no heed to the warnings about ghosts. Soon, inexplicable occurrences cause him to call a psychiatrist to help solve the mystery.",
+"Language": "Hindi, Bengali",
+"Country": "India",
+"Awards": "1 win & 13 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNGI1Y2UwNmQtMmE4MS00ZmVhLTg3YzgtYTg3NGUzOTI5NjdjXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.5/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "33%"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "7.5",
+"imdbVotes": "35,017",
+"imdbID": "tt0995031",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$1,097,797",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":26,
+"Title": "Hera Pheri",
+"Year": "2000",
+"Rated": "Not Rated",
+"Released": "31 Mar 2000",
+"Runtime": "156 min",
+"Genre": "Action, Comedy, Crime",
+"Director": "Priyadarshan",
+"Writer": "Siddique, Lal, Neeraj Vora",
+"Actors": "Akshay Kumar, Suniel Shetty, Paresh Rawal",
+"Plot": "Two tenants and a landlord look for answers to all their money problems - but when their opportunity arrives, will they know what to do with it?",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "8 wins & 6 nominations",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNDZmMGEwMjQtNjFlNi00ZGIxLTlkZjItNmU3Mzg4Y2E0ZjUzXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.2/10"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "8.2",
+"imdbVotes": "74,506",
+"imdbID": "tt0242519",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "N/A",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":27,
+"Title": "Oblivion",
+"Year": "2013",
+"Rated": "PG-13",
+"Released": "19 Apr 2013",
+"Runtime": "124 min",
+"Genre": "Action, Adventure, Sci-Fi",
+"Director": "Joseph Kosinski",
+"Writer": "Karl Gajdusek, Michael Arndt, Joseph Kosinski",
+"Actors": "Tom Cruise, Morgan Freeman, Andrea Riseborough",
+"Plot": "Jack Harper, a drone repairman stationed on Earth that has been ravaged by war with extraterrestrials, questions his identity after rescuing the woman who keeps appearing in his dreams.",
+"Language": "English",
+"Country": "United States",
+"Awards": "1 win & 17 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.0/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "53%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "54/100"
+  }
+],
+"Metascore": "54",
+"imdbRating": "7.0",
+"imdbVotes": "564,812",
+"imdbID": "tt1483013",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$89,107,235",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},
+{ "id":28,
+"Title": "Edge of Tomorrow",
+"Year": "2014",
+"Rated": "PG-13",
+"Released": "06 Jun 2014",
+"Runtime": "113 min",
+"Genre": "Action, Adventure, Sci-Fi",
+"Director": "Doug Liman",
+"Writer": "Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth",
+"Actors": "Tom Cruise, Emily Blunt, Bill Paxton",
+"Plot": "A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.",
+"Language": "English",
+"Country": "United States, Canada, India",
+"Awards": "11 wins & 38 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.9/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "91%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "71/100"
+  }
+],
+"Metascore": "71",
+"imdbRating": "7.9",
+"imdbVotes": "759,627",
+"imdbID": "tt1631867",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$100,206,256",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":29,
+"Title": "Mission: Impossible - Dead Reckoning Part One",
+"Year": "2023",
+"Rated": "PG-13",
+"Released": "12 Jul 2023",
+"Runtime": "163 min",
+"Genre": "Action, Adventure, Thriller",
+"Director": "Christopher McQuarrie",
+"Writer": "Bruce Geller, Christopher McQuarrie, Erik Jendresen",
+"Actors": "Tom Cruise, Hayley Atwell, Ving Rhames",
+"Plot": "Ethan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
+"Language": "English, French, Italian, Russian",
+"Country": "United States",
+"Awards": "Nominated for 2 Oscars. 18 wins & 67 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.7/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "96%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "81/100"
+  }
+],
+"Metascore": "81",
+"imdbRating": "7.7",
+"imdbVotes": "271,653",
+"imdbID": "tt9603212",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$172,135,383",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},
+{ "id":30,
+"Title": "Batman v Superman: Dawn of Justice",
+"Year": "2016",
+"Rated": "R",
+"Released": "25 Mar 2016",
+"Runtime": "151 min",
+"Genre": "Action, Adventure, Sci-Fi",
+"Director": "Zack Snyder",
+"Writer": "Bob Kane, Bill Finger, Jerry Siegel",
+"Actors": "Ben Affleck, Henry Cavill, Amy Adams",
+"Plot": "Batman is manipulated by Lex Luthor to fear Superman. Superman´s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+"Language": "English",
+"Country": "United States, Morocco",
+"Awards": "14 wins & 33 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "6.5/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "29%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "44/100"
+  }
+],
+"Metascore": "44",
+"imdbRating": "6.5",
+"imdbVotes": "765,552",
+"imdbID": "tt2975590",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$330,360,194",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":31,
+"Title": "3 Idiots",
+"Year": "2009",
+"Rated": "PG-13",
+"Released": "25 Dec 2009",
+"Runtime": "170 min",
+"Genre": "Comedy, Drama",
+"Director": "Rajkumar Hirani",
+"Writer": "Abhijat Joshi, Rajkumar Hirani, Vidhu Vinod Chopra",
+"Actors": "Aamir Khan, Madhavan, Mona Singh",
+"Plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+"Language": "Hindi, English",
+"Country": "India",
+"Awards": "64 wins & 30 nominations",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.4/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "100%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "67/100"
+  }
+],
+"Metascore": "67",
+"imdbRating": "8.4",
+"imdbVotes": "447,504",
+"imdbID": "tt1187043",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$6,532,874",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":32,
+"Title": "Bhaag Milkha Bhaag",
+"Year": "2013",
+"Rated": "Not Rated",
+"Released": "12 Jul 2013",
+"Runtime": "186 min",
+"Genre": "Biography, Drama, Sport",
+"Director": "Rakeysh Omprakash Mehra",
+"Writer": "Prasoon Joshi",
+"Actors": "Farhan Akhtar, Kousi Orfahli, Deepak Singh Rawat",
+"Plot": "The truth behind the ascension of Milkha Singh, who was scarred by of the India-Pakistan partition.",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "55 wins & 46 nominations",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMTY1Nzg4MjcwN15BMl5BanBnXkFtZTcwOTc1NTk1OQ@@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.2/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "75%"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "8.2",
+"imdbVotes": "73,273",
+"imdbID": "tt2356180",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$1,636,731",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{  "id":33,
+"Title": "Happy New Year",
+"Year": "2014",
+"Rated": "TV-14",
+"Released": "24 Oct 2014",
+"Runtime": "180 min",
+"Genre": "Action, Comedy, Drama",
+"Director": "Farah Khan",
+"Writer": "Althea Kaushal, Farah Khan, Mayur Puri",
+"Actors": "Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan",
+"Plot": "A gang of amateur dancers takes part in a dancing competition to avenge their personal vendetta.",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "19 wins & 31 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "5.0/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "53%"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "5.0",
+"imdbVotes": "42,245",
+"imdbID": "tt2461132",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "N/A",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":34,
+"Title": "Uri: The Surgical Strike",
+"Year": "2019",
+"Rated": "Not Rated",
+"Released": "11 Jan 2019",
+"Runtime": "138 min",
+"Genre": "Action, Drama, History",
+"Director": "Aditya Dhar",
+"Writer": "Aditya Dhar",
+"Actors": "Vicky Kaushal, Paresh Rawal, Mohit Raina",
+"Plot": "Indian army special forces execute a covert operation, avenging the killing of fellow army men at their base by a terrorist group.",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "20 wins & 27 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BYTgyMTlkZTgtMTMxYi00Mjk5LTg2NTMtNGYyMDVlZWM0NmZjXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.2/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "57%"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "8.2",
+"imdbVotes": "74,787",
+"imdbID": "tt8291224",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$4,186,168",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":35,
+"Title": "Super 30",
+"Year": "2019",
+"Rated": "Not Rated",
+"Released": "12 Jul 2019",
+"Runtime": "154 min",
+"Genre": "Biography, Drama",
+"Director": "Vikas Bahl",
+"Writer": "Sanjeev Dutta",
+"Actors": "Hrithik Roshan, Mrunal Thakur, Nandish Singh Sandhu",
+"Plot": "Based on the life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "6 wins & 12 nominations",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNTM0N2I4OTQtYmJlOC00MTUzLTlhZWMtZGIxODkxZTZkMDIyXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.9/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "31%"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "7.9",
+"imdbVotes": "38,301",
+"imdbID": "tt7485048",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$2,269,878",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":36,
+"Title": "Prem Ratan Dhan Payo",
+"Year": "2015",
+"Rated": "Not Rated",
+"Released": "12 Nov 2015",
+"Runtime": "164 min",
+"Genre": "Drama, Musical, Romance",
+"Director": "Sooraj R. Barjatya",
+"Writer": "Sooraj R. Barjatya, Aash Karan Atal",
+"Actors": "Salman Khan, Sonam Kapoor, Neil Nitin Mukesh",
+"Plot": "While recovering from an assassination attempt four days before his coronation, a stern prince is replaced by a romantic lookalike.",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "13 wins & 9 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BNDYxN2JkYjAtOTBiNS00MDE5LWI3YTYtNGZlMTRhODllY2JlXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "4.4/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "46%"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "4.4",
+"imdbVotes": "24,141",
+"imdbID": "tt3595298",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$4,364,639",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":37,
+"Title": "Kesari",
+"Year": "2019",
+"Rated": "Not Rated",
+"Released": "21 Mar 2019",
+"Runtime": "150 min",
+"Genre": "Action, Drama, History",
+"Director": "Anurag Singh",
+"Writer": "Girish Kohli, Anurag Singh",
+"Actors": "Akshay Kumar, Parineeti Chopra, Suvinder Vicky",
+"Plot": "Based on an incredible true story of the Battle of Saragarhi in which an army of 21 Sikhs fought against 10,000 Afghans in 1897.",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "9 wins & 27 nominations",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMmUyYzA3MGQtNzE0Zi00Nzg0LTk4NTAtNDQ3YWQ4M2IwMWYxXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.4/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "33%"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "7.4",
+"imdbVotes": "22,773",
+"imdbID": "tt6264938",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "N/A",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":38,
+"Title": "Sam Bahadur",
+"Year": "2023",
+"Rated": "N/A",
+"Released": "01 Dec 2023",
+"Runtime": "150 min",
+"Genre": "Biography, Drama, War",
+"Director": "Meghna Gulzar",
+"Writer": "Meghna Gulzar, Bhavani Iyer, Shantanu Srivastava",
+"Actors": "Vicky Kaushal, Sanya Malhotra, Fatima Sana Shaikh",
+"Plot": "Revolves around the high and low points of Sam Manekshaw who became the first Indian Army officer to be promoted to the rank of Field Marshal.",
+"Language": "Hindi, Parsee",
+"Country": "India",
+"Awards": "8 wins & 27 nominations",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMDVkMjZlMGEtMjZlOS00MzQ3LThhOTUtYjY4YTE2OTZiMjBjXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.7/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "38%"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "7.7",
+"imdbVotes": "18,826",
+"imdbID": "tt10786774",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "N/A",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+},{ "id":39,
+"Title": "The Railway Men",
+"Year": "2023",
+"Rated": "TV-MA",
+"Released": "18 Nov 2023",
+"Runtime": "N/A",
+"Genre": "Drama, History, Thriller",
+"Director": "N/A",
+"Writer": "Shiv Rawail",
+"Actors": "Madhavan, Kay Kay Menon, Divyendu Sharma",
+"Plot": "Inspired by true stories, this series is a gripping tale of extraordinary heroism demonstrated by the employees of the Indian Railways in Bhopal. They rose against all odds to save their fellow citizens on the night of December 2,...",
+"Language": "Hindi",
+"Country": "India",
+"Awards": "9 wins & 20 nominations",
+"Poster": "https://m.media-amazon.com/images/M/MV5BZDBkZjhhYWEtZTgwZS00OWY3LWJkNzYtNTkxNWY1MDhjMDk2XkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "8.5/10"
+  }
+],
+"Metascore": "N/A",
+"imdbRating": "8.5",
+"imdbVotes": "25,273",
+"imdbID": "tt16296870",
+"Type": "series",
+"totalSeasons": "1",
+"Response": "True"
+},
+{ "id":40,
+"Title": "The Social Network",
+"Year": "2010",
+"Rated": "PG-13",
+"Released": "01 Oct 2010",
+"Runtime": "120 min",
+"Genre": "Biography, Drama",
+"Director": "David Fincher",
+"Writer": "Aaron Sorkin, Ben Mezrich",
+"Actors": "Jesse Eisenberg, Andrew Garfield, Justin Timberlake",
+"Plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business.",
+"Language": "English, French",
+"Country": "United States",
+"Awards": "Won 3 Oscars. 174 wins & 188 nominations total",
+"Poster": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg",
+"Ratings": [
+  {
+    "Source": "Internet Movie Database",
+    "Value": "7.8/10"
+  },
+  {
+    "Source": "Rotten Tomatoes",
+    "Value": "96%"
+  },
+  {
+    "Source": "Metacritic",
+    "Value": "95/100"
+  }
+],
+"Metascore": "95",
+"imdbRating": "7.8",
+"imdbVotes": "779,958",
+"imdbID": "tt1285016",
+"Type": "movie",
+"DVD": "N/A",
+"BoxOffice": "$96,962,694",
+"Production": "N/A",
+"Website": "N/A",
+"Response": "True"
+}
+
+  
+]
